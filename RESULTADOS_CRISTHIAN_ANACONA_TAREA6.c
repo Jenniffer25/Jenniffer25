@@ -5,7 +5,7 @@
 
 void votar(char nombre[][20], int identificacion[], int Cantidad, int edad[]);
 void resultados(char nombre[][20],  int identificacion[],int Cantidad, int edad []);
-
+//HOLA
 
 void menu(){
 	int option = 1;
@@ -74,7 +74,7 @@ scanf("%d", &salario);
 
 if (salario <=500){
 
-printf("¿ Pertenece a la junta de la empresa? \n ");
+printf("Â¿ Pertenece a la junta de la empresa? \n ");
 printf("1- SI     2- NO \n ");
 scanf("%d", &juntaDirect);
 
